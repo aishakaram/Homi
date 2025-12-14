@@ -1,4 +1,0 @@
-dist/
-*.exe
-build/
-__pycache__/
