@@ -65,6 +65,19 @@ Homi follows a **layered modular architecture**, where each responsibility is is
 
 ---
 
-## ▶️ Running the Project
+## ⚙️ Installation and Setup
+To ensure the project runs correctly, you must install the following prerequisites.
+
+1. Prerequisites (Dependencies)
+You need to install the `CustomTkinter` library. You can install it using pip:
+
+```bash
+pip install customtkinter
+```
+
+2. Running the Project
+​After installing the dependencies, you can run the application using the main file:
+
 ```bash
 python main.py
+```
